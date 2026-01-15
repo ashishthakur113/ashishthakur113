@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Router-0A0A0A?style=for-the-badge&logo=react-router&logoColor=CA4245"/>
   <img src="https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux&logoColor=764ABC"/>
-  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
   <img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
