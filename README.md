@@ -61,9 +61,6 @@ strong **Full-Stack Developer**.
   <a href="https://linkedin.com/in/ashish-thakur-90b415330" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://instagram.com/_ashthakur3" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
 </p>
 
 ---
@@ -100,7 +97,7 @@ strong **Full-Stack Developer**.
   <li>
     <strong>🛒 GrabIt — E-commerce Platform</strong><br/>
     Live:
-    <a href="https://grabit1-ecommere.netlify.app/" target="_blank">Netlify</a>
+    <a href="https://grab-it-ecommerce.vercel.app/" target="_blank">Vercel</a>
     · Repo:
     <a href="https://github.com/ashishthakur113/GrabIt-ecommerce" target="_blank">GitHub</a>
     <br/>
@@ -118,7 +115,7 @@ strong **Full-Stack Developer**.
   <li>
     <strong>💹 Crypto Website</strong><br/>
     Live:
-    <a href="https://cryptochain-1.netlify.app/" target="_blank">Netlify</a>
+    <a href="https://crypto-chain1.vercel.app/" target="_blank">Vercel</a>
     · Repo:
     <a href="https://github.com/ashishthakur113/CryptoChain1" target="_blank">GitHub</a>
     <br/>
@@ -136,7 +133,7 @@ strong **Full-Stack Developer**.
   <li>
     <strong>🍔 Food Delivery Website</strong><br/>
     Live:
-    <a href="https://plato-foodwebsite.netlify.app/" target="_blank">Netlify</a>
+    <a href="https://plato-fooddelivery.vercel.app/" target="_blank">Vercel</a>
     · Repo:
     <a href="https://github.com/ashishthakur113/Plato" target="_blank">GitHub</a>
     <br/>
