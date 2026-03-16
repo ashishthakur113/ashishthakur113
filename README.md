@@ -9,8 +9,8 @@
 
 <p align="center">
 🌐 <strong>Portfolio:</strong>
-<a href="https://ashish-porfolio.vercel.app/" target="_blank">
-https://ashish-porfolio.vercel.app/
+<a href="https://ashish-tomar.vercel.app/" target="_blank">
+https://ashish-tomar.vercel.app/
 </a>
 </p>
 
