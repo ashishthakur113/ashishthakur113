@@ -4,8 +4,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Tomar</h1>
 
 <h3 align="center">
-🧠 Always learning, always shipping — 🚀 I turn ideas into interactive web experiences 💻✨
+Full Stack Developer | React.js • Laravel • PHP • MySQL
 </h3>
+
+<p align="center">
+Passionate about building responsive, scalable, and user-focused web applications.
+</p>
 
 <p align="center">
 🌐 <strong>Portfolio:</strong>
@@ -14,12 +18,6 @@ https://ashish-tomar.vercel.app/
 </a>
 </p>
 
-<img
-  align="right"
-  alt="coding gif"
-  width="400"
-  src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"
-/>
 
 <p align="left">
   <img
@@ -30,32 +28,29 @@ https://ashish-tomar.vercel.app/
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I’m a **Frontend Developer** who loves building  
-**interactive, animated, and user-focused web experiences**.
+I’m a Full Stack Developer focused on building modern web applications using React.js, Laravel, PHP, and MySQL.
 
-I enjoy working with **React, Tailwind CSS, GSAP, and Framer Motion** to turn
-static designs into engaging products.
+I enjoy creating responsive user interfaces, developing REST APIs, managing databases, and connecting frontend with backend systems to build complete end-to-end applications.
 
-Currently expanding into **Backend development (Java, SQL, APIs)** to grow as a
-strong **Full-Stack Developer**.
+Currently improving my backend architecture, API development, and full stack problem-solving skills by building real-world projects.
 
 ---
 
-### 🛠️ What I’m Doing
+## 🛠️ What I’m Doing
 
-- 🔭 Currently working on **learning backend development**
-- 🌱 Learning **Java, SQL, REST APIs**
-- 👯 Open to collaborating on **full-stack web projects**
-- 🤝 Looking for guidance in **Java & Spring Boot**
+- 🔭 Building full stack web applications
+- 🌱 Improving backend development with Laravel & REST APIs
+- 👯 Open to collaborating on frontend and full stack projects
+- 📚 Learning scalable application architecture and best practices
 - 👨‍💻 Projects available at  
   <a href="https://github.com/ashishthakur113" target="_blank">GitHub Profile</a>
 - 📫 Reach me at **ashtomar365@gmail.com**
 
 ---
 
-### 🌐 Socials
+## 🌐 Socials
 
 <p align="left">
   <a href="https://linkedin.com/in/ashish-thakur-90b415330" target="_blank">
@@ -65,105 +60,83 @@ strong **Full-Stack Developer**.
 
 ---
 
-### 💻 Tech Stack
+# 💻 Technical Skills
 
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Router-0A0A0A?style=for-the-badge&logo=react-router&logoColor=CA4245"/>
-  <img src="https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux&logoColor=764ABC"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0A0A0A?style=for-the-badge&logo=redux&logoColor=764ABC"/>
   <img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=0055FF"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/Laravel_Sanctum-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-0A0A0A?style=for-the-badge"/>
+</p>
+
+### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</p>
+
+### Tools & Deployment
+<p align="left">
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Spring-0A0A0A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF"/>
   <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-0A0A0A?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+  <img src="https://img.shields.io/badge/XAMPP-0A0A0A?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
 </p>
 
 ---
 
-### 🧩 Featured Projects
+# 🧩 Featured Projects
 
-<h3 align="left">🧩 Featured Projects</h3>
+### 🛒 GrabIt — E-commerce Frontend Project
+- Dynamic product listing with category filtering and search
+- Cart and wishlist management using Redux Toolkit
+- Responsive UI built with React.js and Tailwind CSS
+- User authentication pages and purchase flow
 
-<ul>
-  <li>
-    <strong>🛒 GrabIt — E-commerce Platform</strong><br/>
-    Live:
-    <a href="https://grab-it-ecommerce.vercel.app/" target="_blank">Vercel</a>
-    · Repo:
-    <a href="https://github.com/ashishthakur113/GrabIt-ecommerce" target="_blank">GitHub</a>
-    <br/>
-    <ul>
-      <li>Category-based product browsing with smart search</li>
-      <li>Real-time cart and wishlist updates using Redux Toolkit</li>
-      <li>Mobile-first responsive UI built with Tailwind CSS</li>
-      <li>Smooth animations and transitions for better UX</li>
-    </ul>
-  </li>
-
----
-  <br/>
-
-  <li>
-    <strong>💹 Crypto Website</strong><br/>
-    Live:
-    <a href="https://crypto-chain1.vercel.app/" target="_blank">Vercel</a>
-    · Repo:
-    <a href="https://github.com/ashishthakur113/CryptoChain1" target="_blank">GitHub</a>
-    <br/>
-    <ul>
-      <li>Live cryptocurrency prices with market cap and 24h changes</li>
-      <li>Multi-currency pricing with real-time value updates</li>
-      <li>Interactive charts and smooth UI animations</li>
-      <li>Fully responsive layout optimized for all devices</li>
-    </ul>
-  </li>
-  
----
-  <br/>
-
-  <li>
-    <strong>🍔 Food Delivery Website</strong><br/>
-    Live:
-    <a href="https://plato-fooddelivery.vercel.app/" target="_blank">Vercel</a>
-    · Repo:
-    <a href="https://github.com/ashishthakur113/Plato" target="_blank">GitHub</a>
-    <br/>
-    <ul>
-      <li>Category-based food browsing with quick search</li>
-      <li>Real-time cart updates with quantity controls</li>
-      <li>Order placement flow with delivery summary</li>
-      <li>State management using Redux Toolkit and localStorage</li>
-    </ul>
-  
-  </li>
-</ul>
-
-<p>
-👉 <strong>More projects available on my</strong>
-<a href="https://github.com/ashishthakur113" target="_blank">
-GitHub repositories
-</a>
-</p>
-
+🔗 Live: https://grab-it-ecommerce.vercel.app/  
+🔗 Repo: https://github.com/ashishthakur113/GrabIt-ecommerce
 
 ---
 
-### 🎯 What I Care About
-
-<ul>
-  <li>✨ Clean UI & smooth animations</li>
-  <li>⚡ Performance & responsiveness</li>
-  <li>🧠 Learning by building real projects</li>
-  <li>🚀 Shipping, not just studying</li>
-</ul>
+### 🍔 Food Delivery Platform — Full Stack Project
+- Full stack food delivery application using React.js, Laravel, PHP, and MySQL
+- REST API development for authentication, cart, products, and orders
+- Razorpay payment gateway integration with Laravel Sanctum authentication
+- Admin dashboard and order management system
 
 
+🔗 Repo: https://github.com/ashishthakur113/food-delivery-frontend
+🔗 Repo: https://github.com/ashishthakur113/food-delivery-backend
+
+---
+
+### 🛠️ Admin Management System
+- Secure admin dashboard with authentication and protected routes
+- CRUD operations for products, users, and order management
+- Backend built using Laravel MVC architecture and MySQL
+- Structured admin workflow and database handling
+
+---
+
+# 🎯 What I Focus On
+
+- ⚡ Clean and responsive UI
+- 🔐 Secure backend systems and APIs
+- 🧠 Building real-world full stack projects
+- 🚀 Writing scalable and maintainable code
+- 📈 Continuous learning and improvement
