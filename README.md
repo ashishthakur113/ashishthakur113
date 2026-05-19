@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/ashishthakur113/ashishthakur113/blob/3ee81bf06da267a55dea8f752cf01c5aeec653f7/Banner" alt="Banner" />
+<img src="https://github.com/ashishthakur113/ashishthakur113/blob/3efaa970b57e0dd83f7db559f76f2c056e88cd47/github%20profile%20image.png" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Ashish Tomar</h1>
 
